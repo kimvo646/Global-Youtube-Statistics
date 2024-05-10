@@ -1,4 +1,5 @@
 Nhóm dùng bộ dữ liệu lấy từ Kaggle: https://www.kaggle.com/datasets/nelgiriyewithana/global-youtube-statistics-2023/data 
+
 Bộ dữ liệu chứa các thông tin của những kênh Youtube có lượt đăng ký hàng đầu.
 
 Đây là mô hình dữ liệu mà nhóm đã xây dựng từ dữ liệu trên:
